@@ -1,1 +1,5 @@
-.idea
+*.jar
+.idea/
+out/
+/target/*
+!/target/*.html
